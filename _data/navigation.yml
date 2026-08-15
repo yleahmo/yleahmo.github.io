@@ -14,8 +14,8 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
     
   - title: "People"
     url: /people/
@@ -24,7 +24,7 @@ main:
     url: /publications/
     
   - title: "Teaching & Outreach"
-    url: /teaching & outreach/
+    url: /teach/
 
   - title: "Join Us"
     url: /join/
