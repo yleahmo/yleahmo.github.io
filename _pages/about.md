@@ -1,11 +1,34 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "B³ Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# B³ Lab
+
+## Built Environment × Human Behavior × Beyond
+
+**Advancing human-centered intelligence for the built environment and beyond.**
+
+B³ Lab is a research group in the Department of Civil, Construction, and Environmental Engineering at Iowa State University, led by Dr. Yunjeong (Leah) Mo.
+
+Our research investigates interactions among people, buildings, and intelligent technologies to create healthier, smarter, more sustainable, and resilient built environments.
+
+## Research
+
+Our work spans human-building interaction and occupant behavior, building energy and environmental performance, intelligent buildings and digital twins, artificial intelligence and data-driven methods, construction safety, and immersive technologies for education and workforce development.
+
+## Featured Research
+
+- Human behavior and building energy
+- Smart buildings and digital twins
+- AI-enabled built environments
+- Healthy and resilient housing
+- Construction safety and immersive technologies
+- Engineering education and workforce development
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
